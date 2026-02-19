@@ -1,4 +1,4 @@
-*/# Calculator App
+# Calculator App
 
 This is a simple calculator built using Java.
 
@@ -27,4 +27,4 @@ This is a simple calculator built using Java.
 If using an IDE, simply open the project and click the Run button.
 
 ## Author
-Jadesola Eyisanmi Akande /*
+Jadesola Eyisanmi Akande
